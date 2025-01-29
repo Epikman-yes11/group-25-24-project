@@ -3,7 +3,7 @@
 body{
     font-family: sans-serif;
     height: 100vh;
-    background-color: rgb(180, 180, 180);
+    background-color: rgb(252, 252, 252);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@ img{
     width: 1000px;
     height: 900px;
     border-color: black;
-    background-color: white;
+    background-color: rgb(196, 193, 193);
     color: black;
     padding: 30px;
     border-radius: 20%;
