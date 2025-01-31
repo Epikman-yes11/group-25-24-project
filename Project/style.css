@@ -21,32 +21,32 @@ body{
 .box{
     font-family: sans-serif;
     height: 50vh;
-    width: 30%;
+    width: 70vh;
     background-color: black;
     color: white;
     padding: 30px;
     border-radius: 30%;
     text-align: center;
-    font-size: 30px;
+    font-size: 21px;
     box-sizing: border-box;
 }
 
 .box-1{
     font-family: sans-serif;
     height: 50vh;
-    width: 30%;
+    width: 70vh;
     background-color: black;
     color: white;
     padding: 30px;
     border-radius: 30%;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     box-sizing: border-box;
 }
 
 
 .container-1{
-    height: 15vh;
+    height: 20vh;
     width: 320px;
     background-color: black;
     color: white;
@@ -54,6 +54,7 @@ body{
     text-align: center;
     align-items: center;
     position: relative;
+    font-size: 21px;
     gap: 20px;
 }
 
